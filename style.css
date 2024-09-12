@@ -30,7 +30,7 @@ body {
     display: flex;
     flex-direction: column;
     gap: 10px;
-    padding: 5px;
+    padding: 6px;
 
     img {
       width: 100%;
